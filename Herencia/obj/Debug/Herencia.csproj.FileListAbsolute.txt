@@ -1,0 +1,9 @@
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Herencia\Herencia\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Herencia\Herencia\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Herencia\Herencia\Herencia\Herencia\obj\Debug\Herencia.csprojAssemblyReference.cache
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Herencia\Herencia\Herencia\Herencia\obj\Debug\Herencia.Form1.resources
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Herencia\Herencia\Herencia\Herencia\obj\Debug\Herencia.Properties.Resources.resources
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Herencia\Herencia\Herencia\Herencia\obj\Debug\Herencia.csproj.GenerateResource.cache
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Herencia\Herencia\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Herencia\Herencia\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Herencia\Herencia\Herencia\Herencia\obj\Debug\Herencia.pdb
